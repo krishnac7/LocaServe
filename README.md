@@ -1,5 +1,5 @@
 # The Idea: 
-to have a single file server which can be placed in any folder and have the contents of the folder accessible across the internet
+to have a single file,server which can be placed in any folder and have the contents of the folder accessible across the internet
 
 # The Approach:
 Create a simple file server to serve/stream files using Flask (not optimal for production)
