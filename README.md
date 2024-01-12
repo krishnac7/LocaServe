@@ -11,7 +11,7 @@ First install the pre-reqs:
 * [Node](https://nodejs.org/en/download)
 
 # Install the following dependencies:
-```pip install flask flask_compress```
+```pip install flask flask_compress requests```
 
 ```npm -g install longtunnel```
 
